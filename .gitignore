@@ -218,3 +218,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Airbnb project data - keep datasets off GitHub
+data/raw/*
+data/processed/*
+
+# DuckDB database files
+*.duckdb
+*.duckdb.wal
+
+# Power BI temporary and backup files
+*.pbix~
+*.pbit~
+
+# Environment variables and secrets
+.env.*
