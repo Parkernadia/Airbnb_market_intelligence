@@ -119,8 +119,6 @@ Airbnb_market_intelligence/
 │   ├── 10_compare_repeated_review_listings.py
 │   └── 11_prepare_powerbi_data.py
 │
-├── sql/
-│
 ├── .gitignore
 ├── README.md
 ├── requirements.txt
